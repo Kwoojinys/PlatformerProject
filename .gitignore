@@ -1,0 +1,58 @@
+/Assets/TestAssets/screenshot_*
+
+# =============== #
+# Unity generated #
+# =============== #
+/Library*
+/Temp*
+/Obj*
+/obj*
+/Build*
+/Builds*
+/Assets/AssetStoreTools*
+/MemoryCaptures*
+/UserSettings*
+/Logs*
+# =============== #
+# Unity3D generated meta files
+# =============== #
+*.pidb.meta
+
+# =============== #
+# Unity3D Generated File On Crash Reports
+# =============== #
+
+#sysinfo.txt
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/.vscode
+/ExportedObj
+/.vs
+/.gradle
+*.svd
+*.userprefs
+*.userprefs.meta
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.sln.meta
+*.user
+*.unityproj
+*.booproj
+.vsconfig
+#*.log
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+debug.log
